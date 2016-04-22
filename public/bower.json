@@ -1,0 +1,25 @@
+{
+  "name": "RESTInContextPHP",
+  "authors": [
+    "Nate Sanders"
+  ],
+  "description": "In-Context via PHP example",
+  "main": "index.php",
+  "keywords": [
+    "PayPal",
+    "In-Context"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

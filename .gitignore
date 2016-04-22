@@ -1,0 +1,5 @@
+vendor
+composer.json
+composer.lock
+public/bower_components
+PayPal.log
