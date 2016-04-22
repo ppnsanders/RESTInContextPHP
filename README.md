@@ -14,3 +14,5 @@ PHP REST SDK, In-Context Checkout.
   * `$ bower install`
 4. Check the `config.php` file to ensure the paths are correct.
 5. Open your browser to `http://localhost/RESTInContextPHP`.
+
+For more information on the SDK, see the [PayPal-PHP-SDK page](http://paypal.github.io/PayPal-PHP-SDK/).
